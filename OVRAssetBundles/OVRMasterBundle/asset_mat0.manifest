@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 24510851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 920c4177004921bdbcbe606d4c214e21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Materials/lantai.mat
+- Assets/Materials/dinding.mat
+- Assets/Materials/metaldoor.mat
+- Assets/Materials/dark.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/MetaQuestProLeft_Material.mat
+- Assets/Materials/gurun.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Materials/fabric.mat
+- Assets/Materials/lamp.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusControllerRayCursor.mat
+- Assets/Materials/porcelain.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/batteryIndicator_mat.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusControllerRayMaterial.mat
+- Assets/Materials/bed.mat
+- Assets/Oculus/Interaction/Runtime/Materials/Unlit Material.mat
+- Assets/Materials/skybox-custom.mat
+- Assets/Materials/metal1.mat
+Dependencies:
+- E:/Project Stuffs/pgrvra-fp/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- E:/Project Stuffs/pgrvra-fp/OVRAssetBundles/OVRMasterBundle/asset_png0
+- E:/Project Stuffs/pgrvra-fp/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- E:/Project Stuffs/pgrvra-fp/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- E:/Project Stuffs/pgrvra-fp/OVRAssetBundles/OVRMasterBundle/asset_tif0

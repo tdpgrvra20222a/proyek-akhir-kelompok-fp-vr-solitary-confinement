@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 921895913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8748f5b9a879525b521ac1a4e889d8c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/536092__eminyildirim__old-metalic-door-locked.wav
+- Assets/Audio/636092__noahbangs__earthquake.wav
+- Assets/Audio/610543__xkeril__rain-on-roof-interior-perspective.wav
+- Assets/Audio/440122__blaukreuz__180408_bathroomvent_st.wav
+Dependencies: []

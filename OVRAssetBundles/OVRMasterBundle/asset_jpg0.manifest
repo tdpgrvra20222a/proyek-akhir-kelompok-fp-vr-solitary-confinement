@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2158849027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7084b4cfa73ca89d65146b44ae3c4d5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Texture/Dinding.jpg
+- Assets/Texture/Lantai.jpg
+- Assets/Texture/Fabric.jpg
+- Assets/Texture/Rusty Door 1.jpg
+- Assets/Texture/Metal Steel.jpg
+- Assets/Texture/Blue Metal Door.jpg
+- Assets/Texture/Brass.jpg
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 778813179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fe87e8d44f3e77fa3e8d22bab07439b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4b57b1a56d6b76d200651994ae0863
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/New Lighting Settings.lighting
+Dependencies: []

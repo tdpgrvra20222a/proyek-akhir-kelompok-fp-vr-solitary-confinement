@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4077062423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 203c66c30dc5309c18f9366b005f0140
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 23f18caaf2c491ae9db28b091670d088
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TerrainSampleAssets/TerrainLayers/Sand_TerrainLayer.terrainlayer
+Dependencies:
+- E:/Project Stuffs/pgrvra-fp/OVRAssetBundles/OVRMasterBundle/asset_tif0
